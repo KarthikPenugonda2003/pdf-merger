@@ -1,1 +1,1 @@
-
+This folder holds all the pdfs that you try to combine in the pdf merger
